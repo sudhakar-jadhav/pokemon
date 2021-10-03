@@ -1,4 +1,3 @@
-**Description**
 There are 2 teams which involves 4 pokemons in each team and the winner is decided based on certain citeria
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
